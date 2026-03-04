@@ -52,13 +52,13 @@ When the program starts, previously saved appliance data is loaded automatically
 
 Data format used:
 
-Name|Watts|Hours
+Name|Watts|Hours|Energy
 
 Example:
 
 Fan|50|5
 TV|25|6
-Radio|15|3
+Iron|15|3
 5. Billing Report Generation
 
 The user enters an electricity tariff (cost per kWh).
